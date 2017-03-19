@@ -1,0 +1,12 @@
+MPCore:
+  ArmorStands:
+    1:
+      location:
+        world:
+        x:
+        y:
+        z:
+        yaw:
+      uuid:
+      type:
+      data:
